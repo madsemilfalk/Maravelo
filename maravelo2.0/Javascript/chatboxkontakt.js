@@ -1,1 +1,0 @@
-document.getElementById('commentsize').style.height="200px";
